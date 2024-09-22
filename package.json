@@ -1,6 +1,7 @@
 {
   "name": "spacex-platzi",
   "version": "1.0.0",
+  "homepage": "https://feragaia.github.io/deployement_test/"
   "description": "A web application that shows info of SpaceX, using spaceX rest API",
   "main": "index.html",
   "scripts": {
@@ -27,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/santiaguf/spacex-platzi/issues"
   },
-  "homepage": "https://github.com/santiaguf/spacex-platzi#readme",
+ # "homepage": "https://github.com/santiaguf/spacex-platzi#readme",
   "devDependencies": {
     "eslint": "^8.27.0",
     "htmlhint": "^1.1.4",
